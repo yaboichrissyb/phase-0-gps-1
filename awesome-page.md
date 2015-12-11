@@ -12,3 +12,4 @@ This is the second line of the block
 ![Christopher](imgs/partner-work.png)
 
 *Italic text*
+
